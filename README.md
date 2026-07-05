@@ -33,6 +33,8 @@ This project presents an interactive **Power BI dashboard** built using the Adve
 
 ## 🎯 Skills Demonstrated
 
+https://github.com/Uzzair2026/Adventure-Works-Data-Analytics-Project/blob/main/Adventure%20works%20dashboard%20SS.png
+
 * Data Cleaning & Transformation
 * Data Modeling
 * DAX Calculations
